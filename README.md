@@ -17,7 +17,7 @@ The service contains 2 domain objects:
             price
             quantity
     
-#Use Cases:
+# Use Cases:
 (only end points are relevant)
  * user has to be able to create an empty cart
  * user has to be able to add a product to the cart
@@ -25,14 +25,14 @@ The service contains 2 domain objects:
  * user has to be able to delete the product from the cart
  * user can apply discount to the cart(* optional- please design your own domain model if you wish to do this)
  
-#Technical Requirements:
+# Technical Requirements:
 Use SpringBoot to build this service. The service must run standalone and must not 
 require any third party software to be installed. The service must communicate Json
 over http (REST). Return proper status codes for the most common problems. 
 The data does not have to be stored permanently, It may be handled in-memory 
 during runtime.
 
-#Things we are looking for
+# Things we are looking for
 * a description how to build and use the service
 * clean code
 * use best practices
