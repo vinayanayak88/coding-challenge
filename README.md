@@ -18,7 +18,7 @@ The service contains 2 domain objects:
             quantity
     
 # Use Cases:
-(only end points are relevant)
+(Provide implementation to the follwing end-points)
  * user has to be able to create an empty cart
  * user has to be able to add a product to the cart
  * user has to be able to update the quantity of the product
